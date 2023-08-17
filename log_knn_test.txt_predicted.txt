@@ -1,0 +1,11 @@
+operation,ligand,smile,time,score,predicted_score
+knn_pred_tn,DB00120,c1ccc(cc1)C[C@@H](C(=O)[O-])[NH3+],2.404827833175659,-4.121,-5
+knn_pred_tn,DB00149,CC(C)C[C@@H](C(=O)[O-])[NH3+],2.7511391639709477,-4.272,-4
+knn_pred_tn,DB00123,C(CC[NH3+])C[C@@H](C(=O)[O-])[NH3+],2.780415296554565,-4.35,-4
+knn_pred_tn,DB00134,CSCC[C@@H](C(=O)[O-])[NH3+],2.7890663146972656,-4.249,-4
+knn_pred_tp,DB00126,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)[O-])O)O,3.2386269569396973,-7.466,-7
+knn_pred_tn,DB00135,c1cc(ccc1C[C@@H](C(=O)[O-])[NH3+])O,3.27711820602417,-5.346,-5
+knn_pred_tp,DB00121,C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)[O-])NC(=O)N2,4.2105700969696045,-6.924,-7
+knn_pred_tp,DB00140,Cc1cc2c(cc1C)n(c-3nc(=O)[nH]c(=O)c3n2)C[C@@H]([C@@H]([C@@H](CO)O)O)O,10.49257206916809,-7.672,-7
+knn_pred_tp,DB00136,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](C[C@@H](C3=C)O)O)C,10.77956247329712,-8.281,-8
+knn_pred_tp,DB00146,C[C@H](CCCC(C)(C)O)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C,12.446335315704346,-8.52,-8
